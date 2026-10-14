@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Расписание Губкина</string>
+    <string name="widget_name">Расписание Губкина</string>
+    <string name="widget_description">Пары на сегодня, после последней пары — на следующий учебный день</string>
+</resources>
